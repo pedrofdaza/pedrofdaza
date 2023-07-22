@@ -7,14 +7,20 @@
 # Pedro Fernandez Daza
 
 ## About Me
-Hello! I'm Pedro, a seasoned Project Manager with over 8 years of international work experience in the industrial sector, including 5 years in the pharmaceutical industry. I specialize in product development projects and product industrialization.
+Hello! I'm Pedro, a seasoned Project Manager with over 8 years of international work experience across several industries.
 
 ## Education
+- **Python Programming Course**, Tokio school (online), 2023
 - **Master's Degree in Industrial Engineering**, Polytechnic University of Seville, 2006 - 2013
 
 ## Work Experience
+### Experience on some companies where I :
+- Managed and executed complex projects in the pharmaceutical industry.
+- Led cross-functional teams, managing customer interfaces.
+- Led the implementation of product industrialization department
 
 ## Skills
+- Python Programming
 - Project Management
 - Product Industrialization
 - Cross-Functional Leadership
