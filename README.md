@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @pedrofdaza
-- 👀 I’m interested in technology, industry, football, finance and programming
 - 🌱 I’m currently learning Python. Completed 300h Python programming course on Tokio school. Furthermore, I have been recently certified as Python Certificate Associate Programming by the Python institue.
 - 💞️ I’m looking to collaborate on different projects related to data analysis using Python as a technology.
 
 
-# Pedro Fernandez Daza
-
 ## About Me
-Hello! I'm Pedro, a seasoned Project Manager with over 8 years of international work experience across several industries.
+Hello! I'm Pedro Fernandez, a seasoned Project Manager with over 8 years of international work experience across several industries. 
+
+Recently, I've embarked on a journey to learn Python and expand my skill set. In this GitHub profile, you'll find code I've created while learning Python, as well as projects that I'm interested in.
+
+## Python Learning Journey
+
+Recently, I've embarked on a journey to learn Python and expand my skill set. I completed a 300-hour Python programming course at Tokio School and have been certified as an Associate in Python Programming by the Python Institue - See more details on my LinkedIn profile. In this GitHub profile, you'll find code I've created while learning Python, as well as projects that I'm interested in.
 
 ## Education
 - **Python Programming Course**, Tokio school (online), 2023
